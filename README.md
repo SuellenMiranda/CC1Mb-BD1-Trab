@@ -1,7 +1,7 @@
 # CC1Mb-BD1-Trab
 Cenário para o Banco de Dados (CC1Mb - Matutino - Design e Desenvolvimento de Bancos de Dados)
 
-Suellen Miranda; Roberta Meireles; Luiz Felippe Silva.
+Suellen Miranda; Roberta Meireles; Luiz Felippe Silva Fagundes.
 
 A empresa Futurama nova no mercado e responsável por mesclar as áreas de TI e CyberCafé. Inicialmente a sede da empresa é no distrito de Haidian. Os clientes que decidem experimentar essa nova ideia, é convidado a se cadastrar no site da Futurama. 
 
