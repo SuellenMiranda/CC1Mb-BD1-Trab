@@ -28,12 +28,21 @@ Já o cliente que optar pela área de TI, poderá utilizar o local por até seis
 PERGUNTAS:
 
 Quais os produtos mais pedidos por um certo cliente?
+
 Estaria no site, onde teria a conta do cliente {funcionário que atendeu, tempo médio de permanência no estabelecimento e produto }, e na entidade CLIENTE
+
 Qual cliente estava usando o computador XXXX no horário YYYY?
+
 *Estaria nas entidades COMPUTADOR e ALUGUEL
+
 Qual o tempo médio que os clientes usaram os computadores no período de AAA até BBBB?
+
 Até 6 horas
+
 Quais produtos são mais pedidos por clientes que estão usando o computador?
+
 Jogos para os jovens e disponibilidade Lan House para os mais adultos sem acesso a computador em casa/trabalho
+
 Quais produtos são mais pedidos por clientes que não estão usando o computador?
+
 A parte do café, onde o cliente tem um ambiente confortável para um descanço de pausa do trabalho
