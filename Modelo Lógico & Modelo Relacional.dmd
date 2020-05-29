@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Lógico &amp; Modelo Relacional" id="14FECB65-DA38-550B-65FF-FC9B3C098C64" version="3.5">
+<createdBy>work</createdBy>
+<createdTime>2020-05-29 18:02:04 UTC</createdTime>
+<ownerDesignName>Modelo Lógico &amp; Modelo Relacional</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>14FECB65-DA38-550B-65FF-FC9B3C098C64</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="9CA379C4-60F8-BAEA-0E1F-7923E4673CC6">
+<designStoragePath>D:\Roberta&apos;s Things\Ciência da Computação\Matérias\Design e Desenvolvimento de Banco de Dados - Segunda e Sexta\Comercio_2</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="37B219FE-97A0-E63C-7CBE-4A07C1370BDD">
+<designStoragePath>D:\Roberta&apos;s Things\Ciência da Computação\Matérias\Design e Desenvolvimento de Banco de Dados - Segunda e Sexta\minha versão do modelo lógico\Modelo Lógico</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
